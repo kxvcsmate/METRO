@@ -1,0 +1,7 @@
+C:\Users\mate\source\repos\METRO\METRO\bin\Debug\METRO.exe.config
+C:\Users\mate\source\repos\METRO\METRO\bin\Debug\METRO.exe
+C:\Users\mate\source\repos\METRO\METRO\bin\Debug\METRO.pdb
+C:\Users\mate\source\repos\METRO\METRO\obj\Debug\METRO.csprojAssemblyReference.cache
+C:\Users\mate\source\repos\METRO\METRO\obj\Debug\METRO.csproj.CoreCompileInputs.cache
+C:\Users\mate\source\repos\METRO\METRO\obj\Debug\METRO.exe
+C:\Users\mate\source\repos\METRO\METRO\obj\Debug\METRO.pdb
